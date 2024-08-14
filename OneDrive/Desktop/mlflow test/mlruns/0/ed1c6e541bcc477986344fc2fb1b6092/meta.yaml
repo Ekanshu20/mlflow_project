@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/OneDrive/Desktop/mlflow%20test/mlruns/0/ed1c6e541bcc477986344fc2fb1b6092/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ed1c6e541bcc477986344fc2fb1b6092
+run_name: agreeable-shad-645
+run_uuid: ed1c6e541bcc477986344fc2fb1b6092
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723635963988
+status: 1
+tags: []
+user_id: HP

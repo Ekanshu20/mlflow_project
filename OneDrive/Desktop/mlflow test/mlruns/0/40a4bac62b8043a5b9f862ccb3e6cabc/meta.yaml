@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/OneDrive/Desktop/mlflow%20test/mlruns/0/40a4bac62b8043a5b9f862ccb3e6cabc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 40a4bac62b8043a5b9f862ccb3e6cabc
+run_name: righteous-trout-153
+run_uuid: 40a4bac62b8043a5b9f862ccb3e6cabc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723636617525
+status: 1
+tags: []
+user_id: HP
