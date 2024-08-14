@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/OneDrive/Desktop/mlflow%20test/mlruns/0/9c80c6c4c6ef4b6fb50861583a5e1fce/artifacts
+end_time: 1723628927002
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9c80c6c4c6ef4b6fb50861583a5e1fce
+run_name: fortunate-frog-20
+run_uuid: 9c80c6c4c6ef4b6fb50861583a5e1fce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723628923395
+status: 3
+tags: []
+user_id: HP
